@@ -1,0 +1,30 @@
+body{
+    background-color: #d6e0f0;
+    
+}
+#menu {
+    background-color: #3282b8;
+    font-family: 'Architects Daughter', cursive;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.container {
+    padding-top: 20px;
+}
+
+img {
+    height: 210px;
+    width: 190px;
+}
+
+#logos{
+    display: inline-block;
+
+}
+
+.tarjeta {
+    padding-top: 20px;
+    margin-top: 50px;
+}
+
+
